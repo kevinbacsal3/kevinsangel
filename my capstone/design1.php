@@ -199,7 +199,7 @@
 <!-- Sidebar -->
     <div class="sidebar">
         <div class="logos">
-            <img src="logonam.png"/>
+            <img src=".logonam.png"/>
             <h2>Kevin Angel's</h2>
         </div>
 
