@@ -319,8 +319,8 @@
 </nav>
  
   <div class="auth">
-    <a href="loginform.php">Login</a>
-    <a href="registrationform.php">Sign-up</a>
+    <a href="my%20capstone/pages/loginform.php">Login</a>
+    <a href="my%20capstone/pages/registrationform.php">Sign-up</a>
   </div>
 </header>
 
