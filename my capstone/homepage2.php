@@ -309,7 +309,7 @@ if (!isset($_SESSION['user_id'])) {
       <div class="column">
         <h4>Learn</h4>
         <p>Blog</p>
-        <p>Tutorials</p>
+        <p>Tutorial</p>
       </div>
     </div>
   </div>
